@@ -1,0 +1,13 @@
+.imageContainer{
+    height: 90%;
+    width: 90%;
+    /* background: #000; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canners{
+    height: 100%;
+    width: 100%;
+}
